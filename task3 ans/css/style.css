@@ -1,0 +1,177 @@
+body {
+    background-color: black;
+}
+
+.parent {
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footer ul li {
+    display: inline;
+    padding: 5px;
+}
+
+.social ul li {
+    display: inline;
+}
+
+.social {
+    float: left;
+    width: 200;
+    display: inline;
+    list-style-type: none;
+}
+
+.logo {
+    float: left;
+    width: 615px;
+}
+
+.footer ul li a {
+    text-decoration: none;
+    color: #92979D;
+    padding: 5px;
+}
+
+.home {
+    background-color: #900;
+}
+
+.footer ul li a:hover {
+    background-color: rgb(51, 153, 254);
+    color: white;
+}
+
+.contant {
+    background-color: rgb(204, 204, 204);
+    width: 895px;
+    height: 1030px;
+}
+
+.contant img {
+    margin-left: 7px;
+    margin-top: 7px;
+}
+
+h2 {
+    color: rgb(51, 153, 254);
+}
+
+.part-right {
+    width: 630px;
+    float: left;
+    margin: 8px;
+    padding-left: 5px;
+}
+
+.part-left {
+    width: 232px;
+    float: left;
+    margin: 5px;
+}
+
+.prgraph {
+    width: 550px;
+    margin-left: 15px;
+}
+
+.imag1 {
+    width: 300px;
+    float: left;
+}
+
+.ima21 {
+    width: 300px;
+    float: left;
+    margin-left: 10px;
+}
+
+.ul {
+    margin-left: 9px;
+}
+
+.outline {
+    padding: 3px;
+    outline-color: white;
+    outline-style: outset;
+    outline-width: 3px;
+}
+
+h3 {
+    font-size: 15px;
+    color: rgb(232, 128, 76)
+}
+
+span {
+    color: rgb(51, 153, 254);
+}
+
+.p-lef {
+    font-size: small;
+}
+
+.p-right {
+    width: 588px;
+}
+
+.footer {
+    margin-top: 40px
+}
+
+.img-cone {
+    padding: 5px;
+}
+
+.social ul li {
+    opacity: 0.5;
+    position: relative;
+}
+
+.social ul li:hover {
+    opacity: 1;
+    bottom: 3px;
+}
+
+
+/* ################################################# page about us #######################################*/
+
+h4 {
+    margin-left: 18px;
+    color: rgb(51, 153, 254);
+}
+
+.abc {
+    margin-left: 9px;
+}
+
+.images {
+    width: 740px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 45px;
+}
+
+.images img {
+    padding: 5px;
+}
+
+.xyz {
+    width: 790px;
+    margin-left: 25px;
+}
+
+.contant2 {
+    background-color: rgb(204, 204, 204);
+    width: 895px;
+    height: 1060px;
+}
+
+.about {
+    background-color: #900;
+}
+
+.img-con {
+    padding: 12px;
+}
